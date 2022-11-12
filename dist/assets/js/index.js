@@ -1,0 +1,1 @@
+(()=>{"use strict";addEventListener("load",(function(){document.querySelector(".p-loader").classList.add("loaded")}))})();

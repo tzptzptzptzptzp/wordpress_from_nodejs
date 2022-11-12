@@ -1,0 +1,32 @@
+/*---------- BASE ----------*/
+:root {
+    --main-color: ;
+    --sub-color: ;
+    --font-color: #333;
+    --bg-color: #FFF;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size:1.6rem;
+    line-height: 1;
+}
+h1 {
+    font-size: 24px;
+    line-height: 1.3;
+    @media screen and (max-width: 599px) {
+        font-size: 20px;
+    }
+}
+h2 {
+    font-size: 20px;
+    line-height: 1.3;
+    @media screen and (max-width: 599px) {
+        font-size: 18px;
+    }
+}
+img {
+    max-width: 100%;
+}
+

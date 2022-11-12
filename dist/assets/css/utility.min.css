@@ -1,0 +1,40 @@
+.pointer-events-none {
+        pointer-events: none;
+}
+.fixed {
+        position: fixed;
+}
+.absolute {
+        position: absolute;
+}
+.m-auto {
+        margin: auto;
+}
+.block {
+        display: block;
+}
+.flex {
+        display: flex;
+}
+.hidden {
+        display: none;
+}
+.h-screen {
+        height: 100vh;
+}
+.w-full {
+        width: 100%;
+}
+.border {
+        border-width: 1px;
+}
+.opacity-0 {
+        opacity: 0;
+}
+.outline {
+        outline-style: solid;
+}
+    .theme-color {
+        color: var(--font-color);
+        background-color: var(--background-color);
+    }

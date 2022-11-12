@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src/js",
+    "module": "ES2015",
+    "target": "ES5",
+    "sourceMap": true,
+    "removeComments": true,
+    "strict": true
+  }
+}
